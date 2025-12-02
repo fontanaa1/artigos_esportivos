@@ -1,5 +1,7 @@
 # ⚽ API RESTful: Artigos Esportivos (Node.js + Express + Supabase)
 
+📽️https://www.canva.com/design/DAG6Aq3ukqM/KyWlAoQaGaTdNN2AWU4UNA/edit?utm_content=DAG6Aq3ukqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Este projeto consiste no desenvolvimento de uma API RESTful completa para gerenciar um catálogo de artigos esportivos, implementando todas as operações CRUD (Create, Read, Update, Delete).
 
 ## ✨ Funcionalidades
